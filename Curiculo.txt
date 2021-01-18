@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+</div>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="Bruno Henrique Brandl"
+        <title>Curiculo Bruno Henrique</title></h1>
+   
+    </head>
+
+    <body>
+          <!-- Cabeçalho do site -->
+          <section id="Cabecalho" class="texto">
+            <h1 class="titulo1"> informações </h1>
+        </section>
+
+        <!-- informações -->
+        <main>
+        <section id="Curiculo"
+    </h3>  nome: Bruno Henrique Brandl  </>
+</section>
+     
+  <section id="Curiculo"
+     </h3>  Idade: 16  </>
+     </section>
+     
+     
+            <section id="Curiculo"
+        </h3>  Data de Nasc.: 24/08/2004  </>
+    </section>  
+                       
+    <section id="Curiculo"
+</h3> Nome do pai: Jorge Luiz Brandl </>
+</section>
+
+<section id="Curiculo"
+</h3> Profisão do Pai: Grafíco  </>
+</section>
+
+<section id="Curiculo"
+</h3>  Nome da Mãe: Edeltraut Kurth </>
+</section>
+
+
+
+
+
+
+<section id="Curiculo"
+</h3> Profisão da Mãe: Diarista  </>
+</section>
+
+<section id="Curiculo"
+</h3> E-mail para contato: brunoabel1212@gmail.com </>
+</section>
+
+<section id="Curiculo"
+</h3> telefone para contato: (47)98442-4263 </>
+</section>
+
+<section id="Curiculo"
+</h3> Grau de escolaridade: Ensino Médio Incomoleto (continuo estudando no colegio Luiz Delfino no turno Matutino)  </>
+</section>
+
+<section id="Curiculo"
+</h3> Cursos que fez: Estou no momento Cursando o Entra 21  </>
+</section>
+
+<section id="Curiculo"
+</h3> Sexo: Homem </>
+</section>
+
+<section id="Curiculo"
+</h3> Genero: Maculino </>
+</section>
+
+<section id="Curiculo"
+</h3> Estado Civil: Solteiro </>
+</section>
+
+</div>
+
+   
+
+
+
+</body>
+</html>
